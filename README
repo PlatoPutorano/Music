@@ -1,0 +1,10 @@
+Hi!
+Do you want to listen to music?
+Then you've come to the right place!!!
+Sending music will take time. We'll have to wait.
+For me to send you music, write a message like this:
+/music 'author of the composition' 'title of the song'.
+If the bot sent the wrong song that you were looking for, then enter the /next command.
+I can also determine the name of the song from the lyrics.
+To do this, you need to enter the command /text 'song lyrics'.
+If this is not the song you were looking for, then enter the /next command.
