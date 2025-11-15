@@ -12,7 +12,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import logging
 import os
 
-bot = Bot(token = '5539084256:AAH2nx_UHF-lAou7waoLuLGbg67Q_9wIGHc')
+bot = Bot(token = 'YOUR_BOT_TOKEN')
 dp = Dispatcher(bot)
 logging.basicConfig(level=logging.INFO)
 
